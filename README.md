@@ -112,7 +112,9 @@ Get block (64 KB) start address
 
 The SPIConsole.cpp file is example code for a serial console that exposes a few commands.
 
-![SPI Flash Serial Console](https://i.imgur.com/nDVVXGM.png)
+![SPI Flash Serial Console Page 1](https://i.imgur.com/bNR4062.png)
+
+![SPI Flash Serial Console Page 2](https://i.imgur.com/SMqYVtR.png)
 
 Can be edited to work with other commands.
 
